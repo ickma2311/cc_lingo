@@ -1,0 +1,3 @@
+Look though all the new words/phrases that I am learning in words.txt and phrase.txt, then generate a challenge for me, which can be:
++ random select 1 word/phrase, ask me what is the meaning and I will answer in the word's language, then you check my answer
++ give me a topic for me to create some sentences using some words(tell me what words you want me to use), then tell me how good my sentence is and is there any space to improve.
